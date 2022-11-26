@@ -4,7 +4,7 @@
   "name": "Test_Tiler",
   "sources": {
     "openmaptiles": {
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key={key}",
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=W3RNtgpU0n9a1aHYof0h",
       "type": "vector"
     },
     "maptiler_attribution": {
