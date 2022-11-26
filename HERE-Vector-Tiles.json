@@ -4,10 +4,7 @@
   "metadata": {},
   "sources": {
     "omv": {
-      "type": "vector",
-      "tiles": [
-        "https://vector.hereapi.com/v2/vectortiles/base/mc/{z}/{x}/{y}/omv?apikey=H6XyiCT0w1t9GgTjqhRXxDMrVj9h78ya3NuxlwM7XUs"
-      ]
+      "type": "vector"
     }
   },
   "glyphs": "https://assets.vector.hereapi.com/fonts/{fontstack}/{range}.pbf",
